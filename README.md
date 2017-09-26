@@ -1,3 +1,3 @@
 # README
 
-[Upskill] (http://upskillcourses.com) Software-as-a-Service Ruby App
+[Upskill] (http://upskillcourses.com) Softare-as-a-Service Ruby App
