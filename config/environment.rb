@@ -12,4 +12,4 @@ ActionMailer::Base.smtp_setting = {
     :domain         => "warm-oasis-26009.herokuapp.com",
     :authentication => :plain,
 }
-ActionMailer::Base.delivery_method = :smtp_setting
+ActionMailer::Base.delivery_method = :smtp
