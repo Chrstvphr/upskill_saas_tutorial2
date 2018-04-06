@@ -21,7 +21,8 @@
         expMonth = $('#card_month').val(),
         expYear = $('#card_year').val();
         
-  //   //Use Stripe JS library to check for card errors.
+  
+   //Use Stripe JS library to check for card errors.
     var error = false;
     
     //Validate card number.
